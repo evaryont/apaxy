@@ -21,7 +21,18 @@ touch /var/www/html/example.xls && \
 touch /var/www/html/example.pdf && \
 touch /var/www/html/example.tex && \
 touch /var/www/html/example.c && \
-touch /var/www/html/example.mp3
+touch /var/www/html/example.mp3 && \
+mkdir /var/www/html/more && \
+touch /var/www/html/more/example.cbz && \
+touch /var/www/html/more/example.epub && \
+touch /var/www/html/more/example.mobi && \
+touch /var/www/html/more/example.iso && \
+touch /var/www/html/more/example.rb && \
+touch /var/www/html/more/example.java && \
+touch /var/www/html/more/example.pkg && \
+touch /var/www/html/more/example.xml && \
+touch /var/www/html/more/example.odt && \
+touch /var/www/html/more/example.odp
 
 EXPOSE 80
 
