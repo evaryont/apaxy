@@ -76,7 +76,7 @@
 	AddIcon theme/icons/sql.png .sql
 	AddIcon theme/icons/tiff.png .tiff .tif
 	AddIcon theme/icons/tex.png .tex
-	AddIcon theme/icons/text.png .txt .nfo
+	AddIcon theme/icons/text.png .txt .nfo .epub .mobi .azw
 	AddIcon theme/icons/torrent.png .torrent
 	AddIcon theme/icons/video.png .asf .asx .avi .flv .mkv .mov .qt .mp4 .mpg .mpeg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv .webm
 	AddIcon theme/icons/xml.png .xml
